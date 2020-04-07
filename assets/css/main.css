@@ -3185,3 +3185,7 @@
 #disclaimer {
 	margin-top: 70px;
 }
+
+#past ul {
+	list-style-type:none;
+}
